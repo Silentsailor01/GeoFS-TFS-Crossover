@@ -268,10 +268,10 @@
                 {
                     "name": "Turbo Lines",
                     "texture": [
-                        "/models/aircraft/premium/a380/normal.jpg",
-                        "/models/aircraft/premium/a380/specular.jpg",
-                        "",
-                        ""
+                        "https://raw.githubusercontent.com/Silentsailor01/GeoFS-TFS-Crossover/refs/heads/main/liveries/TurboLinesATR72.png",
+                        "https://raw.githubusercontent.com/Silentsailor01/GeoFS-TFS-Crossover/refs/heads/main/liveries/TurboLinesATR72.png",
+                        "https://raw.githubusercontent.com/Silentsailor01/GeoFS-TFS-Crossover/refs/heads/main/liveries/TurboLinesATR72.png",
+                        "https://raw.githubusercontent.com/Silentsailor01/GeoFS-TFS-Crossover/refs/heads/main/liveries/TurboLinesATR72.png"
                     ],
                     "credits": "Icosahedron"
                 }
